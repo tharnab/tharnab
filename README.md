@@ -13,7 +13,7 @@ A passionate **Full-Stack MERN Developer** currently pursuing my **B.Tech in Com
 `JavaScript (ES6+)` `HTML5` `CSS3`
 
 **Frontend:**
-`React.js` `Context API` `Chart.js` `Bootstrap/Tailwind`
+`React.js` `Context API` `Chart.js` `Bootstrap` `Tailwind` `Next.js`
 
 **Backend & Database:**
 `Node.js` `Express.js` `MongoDB` `REST APIs` `JWT Auth`
